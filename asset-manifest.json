@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-template/static/css/main.773e0f66.css",
+    "main.js": "/web-template/static/js/main.fdcc71f7.js",
+    "static/js/453.0adfad75.chunk.js": "/web-template/static/js/453.0adfad75.chunk.js",
+    "static/media/hero-food.jpg": "/web-template/static/media/hero-food.ba6d57c91be85149d320.jpg",
+    "index.html": "/web-template/index.html",
+    "main.773e0f66.css.map": "/web-template/static/css/main.773e0f66.css.map",
+    "main.fdcc71f7.js.map": "/web-template/static/js/main.fdcc71f7.js.map",
+    "453.0adfad75.chunk.js.map": "/web-template/static/js/453.0adfad75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773e0f66.css",
+    "static/js/main.fdcc71f7.js"
+  ]
+}
